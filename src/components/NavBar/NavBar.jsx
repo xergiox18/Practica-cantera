@@ -60,7 +60,7 @@ const Navbar = () => {
           </ul>
         </div>
 
-        <div className="flex space-x-4 px-4 py-2 justify-center ">
+        <div className="flex space-x-4 px-4 py-2 justify-center">
           <a className="flex items-center cursor-pointer hover:text-black text-[#4CAF50]" >
             Login
           </a>

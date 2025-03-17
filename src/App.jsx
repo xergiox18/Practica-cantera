@@ -1,5 +1,6 @@
 import Navbar from "./components/NavBar/NavBar";
 import Header from "./components/Header/Header";
+import Lessons from "./components/Lessons/Lessons";
 
 function App() {
 
@@ -9,6 +10,7 @@ function App() {
       
         <Navbar/>
         <Header/>
+        <Lessons/>
    
     </div>
   );
