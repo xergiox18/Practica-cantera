@@ -3,8 +3,8 @@ import Illustration from "../../assets/Illustration.png";
 
 const Lessons = () => {
   return (
-    <div className="w-full flex pl-46 bg-[#F5F7FA] ">
-      <div className="grid grid-cols-2 bg-cover mt-[340px] items-center ">
+    <div className="w-full flex pl-46 bg-[#F5F7FA] h-220">
+      <div className="grid grid-cols-2 bg-cover mt-[300px] items-center ">
         <div>
           <h1 className="text-[#4D4D4D] text-[64px] font-bold text-left w-full leading-tight">
             Lessons and insights
