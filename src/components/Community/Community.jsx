@@ -4,7 +4,7 @@ import iconHands from '../../assets/Icon-3.png'
 
 const Community = () => {
     return (
-        <div className='w-fullitems-center mt-[50px] ' >
+        <div className='w-full items-center mt-[50px]' >
             <div classname="leading-tight" >
                 <h1 className=' text-center text-[36px] font-bold text-[#4D4D4D]'>Manage your entire community <br/> in a single system</h1>
                 

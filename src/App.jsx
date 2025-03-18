@@ -3,6 +3,7 @@ import Header from "./components/Header/Header";
 import Lessons from "./components/Lessons/Lessons";
 import Community from "./components/Community/Community";
 import Pixelgrade from "./components/Pixelgrade/Pixelgrade";
+import DataReport from "./components/DataReport/DataReport";
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
         <Lessons/>
         <Community/>
         <Pixelgrade/>
+        <DataReport/>
    
     </div>
   );
