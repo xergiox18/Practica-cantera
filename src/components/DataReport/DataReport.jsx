@@ -6,7 +6,7 @@ import IconPayments from '../../assets/Icon-7.png';
 
 const DataReport = () => {
     return (
-        <div className="grid grid-cols-2 bg-[#F5F7FA] text-left mt-[50px] w-full ">
+        <div className="grid grid-cols-2 bg-[#F5F7FA] text-left mt-[50px] w-full h-70">
             <div className='pt-14 font-bold text-[36px] ml-[220px]'>
                 <h1 className='text-[#4D4D4D] leading-tight'>
                     Helping a local <br/><span className='text-[#4CAF4F]'> business reinvent itself </span>
